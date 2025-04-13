@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     
-    var funFacts = ["I love to swim", "I don't like chocolate", "I'm fluent in Mandarin", "I lived in Singapore for 5 years", "I can name all the flags and capitals of the world", "Sushi is my fav food and my dog's name", "I love to draw and paint"]
+    var funFacts = ["I love to play pool basketball", "My favorite color is royal blue", "I don't like chocolate", "I'm fluent in Mandarin", "I lived in Singapore for 5 years", "I can name all the flags and capitals of the world", "Sushi is my fav food and my dog's name", "I love to draw and paint"]
     @State private var funFact = ""
     @State private var buttonText = "click for a fun fact!"
     
